@@ -40,7 +40,7 @@ char *get_next_line(int fd);
 - [`ft_strdup``](Mandatory/get_next_line_utils.c) - creates a duplicate for the string passed as a parameter.
 - [`ft_strjoin``](Mandatory/get_next_line_utils.c) - concatenates two strings.
 - [`ft_strlcpy``](Mandatory/get_next_line_utils.c) - copy string to a specific size.
-- [`ft_strlen``](Mandatory/get_next_line_utils.c) - calculate the length of a string.
+- [`ft_strlen`](Mandatory/get_next_line_utils.c) - calculate the length of a string.
 - [`ft_strchr``](Mandatory/get_next_line_utils.c) - locate character in a string.
 
 ⭐ Bonus Part
