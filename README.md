@@ -32,7 +32,9 @@ char *get_next_line(int fd);
 	
 ## 💻 Functions_
 - [`get_next_line.c`](Mandatory/get_next_line.c) - read the file descriptor.
-- [`get_next_line_utils.c`](1.Mandatory-Part/get_next_line_utils.c) - complementary functions for GNL. (functions were made in the first project - libft)
+- [`get_next_line_utils.c`](Mandatory/get_next_line_utils.c) - complementary functions for GNL. (functions were made in the first project - libft)
+- [`get_next_line_bonus.c`](Bonus/get_next_line_bonus.c) - read file descriptors.
+- [`get_next_line_utils_bonus.c`](Bonus/get_next_line_utils_bonus.c) - auxiliary functions for GNL_bonus. (functions were done in the first project - Libft).
 
 	
 	
