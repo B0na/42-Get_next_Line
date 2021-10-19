@@ -37,11 +37,11 @@ char *get_next_line(int fd);
 - [`get_next_line_utils_bonus.c`](Bonus/get_next_line_utils_bonus.c) - complementary functions for GNL. (functions were made in the first project - libft)
 	
 ## Libft helper functions
-- [`ft_strdup``](Mandatory/get_next_line_utils.c) - creates a duplicate for the string passed as a parameter.
-- [`ft_strjoin``](Mandatory/get_next_line_utils.c) - concatenates two strings.
-- [`ft_strlcpy``](Mandatory/get_next_line_utils.c) - copy string to a specific size.
+- [`ft_strdup`](Mandatory/get_next_line_utils.c) - creates a duplicate for the string passed as a parameter.
+- [`ft_strjoin`](Mandatory/get_next_line_utils.c) - concatenates two strings.
+- [`ft_strlcpy`](Mandatory/get_next_line_utils.c) - copy string to a specific size.
 - [`ft_strlen`](Mandatory/get_next_line_utils.c) - calculate the length of a string.
-- [`ft_strchr``](Mandatory/get_next_line_utils.c) - locate character in a string.
+- [`ft_strchr`](Mandatory/get_next_line_utils.c) - locate character in a string.
 
-⭐ Bonus Part
+## ⭐ Bonus Part
 get_next_line_bonus makes it possible to manage multiple file descriptors.
